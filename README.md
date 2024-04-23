@@ -1,4 +1,5 @@
 # 1st-Project
 This is my first Git Repository.
 <br>
-Author - Archita Acharjee
+Author - Archita Acharjee (AA)
+
